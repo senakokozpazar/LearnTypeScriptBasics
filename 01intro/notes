@@ -1,0 +1,26 @@
+--Typscript Types
+
+ Number 
+ String
+ Boolean
+ Array
+ Object
+ Null
+ Undefined
+ Void
+ Tuples
+ ...
+ Never
+ unknown
+
+ --Situations
+
+ -A function accepts 2 numbers
+ -A function returns a string
+ 
+
+ --Syntax
+ 
+ let variableName: type = value //type is lowercase
+
+--- JS doesnt have a special runtime value for integers so there is no equivalent to int or float - everything is simply number. !!!
