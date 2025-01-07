@@ -24,3 +24,5 @@
  let variableName: type = value //type is lowercase
 
 --- JS doesnt have a special runtime value for integers so there is no equivalent to int or float - everything is simply number. !!!
+
+--type keywordü ile type tanımlayabiliriz.
